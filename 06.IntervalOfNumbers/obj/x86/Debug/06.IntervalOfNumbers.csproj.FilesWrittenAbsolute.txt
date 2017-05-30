@@ -1,0 +1,5 @@
+/Users/admin/Projects/ConditionalStatementsAndLoopsEXER/06.IntervalOfNumbers/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/admin/Projects/ConditionalStatementsAndLoopsEXER/06.IntervalOfNumbers/bin/Debug/06.IntervalOfNumbers.pdb
+/Users/admin/Projects/ConditionalStatementsAndLoopsEXER/06.IntervalOfNumbers/bin/Debug/06.IntervalOfNumbers.exe
+/Users/admin/Projects/ConditionalStatementsAndLoopsEXER/06.IntervalOfNumbers/obj/x86/Debug/06.IntervalOfNumbers.exe
+/Users/admin/Projects/ConditionalStatementsAndLoopsEXER/06.IntervalOfNumbers/obj/x86/Debug/06.IntervalOfNumbers.pdb

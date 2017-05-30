@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{0870100B-303F-4612-834C-535174570758}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ChooseADrink2.0/ChooseADrink2.cs">
+    <Files>
+      <File FileName="ChooseADrink/ChooseADrink.cs" Line="13" Column="5" />
+      <File FileName="ChooseADrink2.0/ChooseADrink2.cs" Line="19" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ChooseADrink2.0 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ChooseADrink PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

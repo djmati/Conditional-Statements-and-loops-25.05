@@ -1,0 +1,5 @@
+/Users/admin/Projects/ConditionalStatementsAndLoopsEXER/05.WordInPlural/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/admin/Projects/ConditionalStatementsAndLoopsEXER/05.WordInPlural/bin/Debug/05.WordInPlural.pdb
+/Users/admin/Projects/ConditionalStatementsAndLoopsEXER/05.WordInPlural/bin/Debug/05.WordInPlural.exe
+/Users/admin/Projects/ConditionalStatementsAndLoopsEXER/05.WordInPlural/obj/x86/Debug/05.WordInPlural.exe
+/Users/admin/Projects/ConditionalStatementsAndLoopsEXER/05.WordInPlural/obj/x86/Debug/05.WordInPlural.pdb

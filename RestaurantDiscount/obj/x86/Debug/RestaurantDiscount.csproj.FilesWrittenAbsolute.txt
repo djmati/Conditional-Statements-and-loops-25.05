@@ -1,0 +1,5 @@
+/Users/admin/Projects/ConditionalStatementsAndLoops/RestaurantDiscount/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/admin/Projects/ConditionalStatementsAndLoops/RestaurantDiscount/bin/Debug/RestaurantDiscount.pdb
+/Users/admin/Projects/ConditionalStatementsAndLoops/RestaurantDiscount/bin/Debug/RestaurantDiscount.exe
+/Users/admin/Projects/ConditionalStatementsAndLoops/RestaurantDiscount/obj/x86/Debug/RestaurantDiscount.exe
+/Users/admin/Projects/ConditionalStatementsAndLoops/RestaurantDiscount/obj/x86/Debug/RestaurantDiscount.pdb

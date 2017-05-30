@@ -1,0 +1,10 @@
+/Users/admin/Projects/ConditionalStatementsAndLoops/ChooseADrink/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/admin/Projects/ConditionalStatementsAndLoops/ChooseADrink/bin/Debug/ChooseADrink.pdb
+/Users/admin/Projects/ConditionalStatementsAndLoops/ChooseADrink/bin/Debug/ChooseADrink.exe
+/Users/admin/Projects/ConditionalStatementsAndLoops/ChooseADrink/obj/x86/Debug/ChooseADrink.exe
+/Users/admin/Projects/ConditionalStatementsAndLoops/ChooseADrink/obj/x86/Debug/ChooseADrink.pdb
+/Users/admin/Projects/ConditionalStatementsAndLoopsEXER/ChooseADrink/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/admin/Projects/ConditionalStatementsAndLoopsEXER/ChooseADrink/bin/Debug/ChooseADrink.pdb
+/Users/admin/Projects/ConditionalStatementsAndLoopsEXER/ChooseADrink/bin/Debug/ChooseADrink.exe
+/Users/admin/Projects/ConditionalStatementsAndLoopsEXER/ChooseADrink/obj/x86/Debug/ChooseADrink.exe
+/Users/admin/Projects/ConditionalStatementsAndLoopsEXER/ChooseADrink/obj/x86/Debug/ChooseADrink.pdb
